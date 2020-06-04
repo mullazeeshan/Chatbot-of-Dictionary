@@ -22,10 +22,10 @@ This is a simple dictionary chatbot which tell meaning of any word.
 
 
 # SLACK INVITE LINK
-[Click this link to join slack workspace and start interacting with Bot.](https://join.slack.com/t/dictionarybot/shared_invite/enQtMzM0NjI3NzYxNTQyLWI0MmNmNzI0OTg4OTZhMjRmZTQwODE1ZjM0NzVjYmQwYTc1MDBlZjI3M2EzODE0NjJmYWRlNGMxMzIzY2FlNzY)
+[Click this link to join slack workspace and start interacting with Bot.](https://join.slack.com/t/zeeshanmulla/shared_invite/zt-e7r9ueqq-wuVucXOSztbBooUFNa610g)
 
-# Some Screenshots
+# Screenshots
+![slack bot dictionary screenshot 1](https://user-images.githubusercontent.com/29397302/83795440-15068500-a6bd-11ea-9e1e-e1b3b5904cb4.JPG)
+https://media.giphy.com/media/lQPRTrP3tZxaxyoF2G/giphy.gif
 
-1.png            |2.png            |3.png            
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Adityajn/Dictionary-ChatBot/master/ScreenShots/1.png)  |  ![](https://raw.githubusercontent.com/Adityajn/Dictionary-ChatBot/master/ScreenShots/2.png)  |  ![](https://raw.githubusercontent.com/Adityajn/Dictionary-ChatBot/master/ScreenShots/3.png)
+

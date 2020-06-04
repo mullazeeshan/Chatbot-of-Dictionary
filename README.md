@@ -1,6 +1,8 @@
 # Dictionary Bot using Amazon Lex, Amazon Lambda and Oxford Dictionary API
 This is a simple dictionary chatbot which tell meaning of any word.
 
+![Slack GIF-downsized](https://user-images.githubusercontent.com/29397302/83795957-e1782a80-a6bd-11ea-9e31-da1cb3d5bd5d.gif)
+
 # Requirements:
 1. Amazon AWS Account
 2. Amazon Lex
@@ -26,6 +28,5 @@ This is a simple dictionary chatbot which tell meaning of any word.
 
 # Screenshots
 ![slack bot dictionary screenshot 1](https://user-images.githubusercontent.com/29397302/83795440-15068500-a6bd-11ea-9e1e-e1b3b5904cb4.JPG)
-https://media.giphy.com/media/lQPRTrP3tZxaxyoF2G/giphy.gif
 
 
